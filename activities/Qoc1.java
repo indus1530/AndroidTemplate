@@ -34,6 +34,7 @@ public class Qoc1 extends AppCompatActivity implements RadioGroup.OnCheckedChang
         this.setTitle(getString(R.string.routinetwo) + "(" + fc.getReportingMonth() + ")");
         events_call();
 
+
     }
 
 
