@@ -55,23 +55,17 @@
 
                         <RadioButton
                             android:id="@+id/dh01a"
+                            style="@style/radiobutton"
                             android:layout_width="0dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginRight="3dp"
                             android:layout_weight="1"
-                            android:text="@string/yes"
-                            android:textColor="@color/gray"
-                            android:textSize="16sp" />
+                            android:text="@string/yes" />
 
                         <RadioButton
                             android:id="@+id/dh01b"
+                            style="@style/radiobutton"
                             android:layout_width="0dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginRight="3dp"
                             android:layout_weight="1"
-                            android:text="@string/no"
-                            android:textColor="@color/gray"
-                            android:textSize="16sp" />
+                            android:text="@string/no" />
 
                     </RadioGroup>
 
